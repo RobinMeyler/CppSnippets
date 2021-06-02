@@ -1,1 +1,1 @@
-# CppSnippets
+# C++ Coding Patterns
